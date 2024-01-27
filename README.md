@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mario Stojkovski
+<h1 align="left">Hi, I'm Mario Stojkovski 👋
 <p align="right"> 
 </h1>
 <h3 align="left">A software developer from Macedonia.</h3>
