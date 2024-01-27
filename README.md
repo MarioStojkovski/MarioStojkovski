@@ -7,8 +7,6 @@
 
 - 🏢 I’m currently working at [Aspekt](https://aspekt.mk/)
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **stojkovskimario@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
